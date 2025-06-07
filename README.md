@@ -1,6 +1,6 @@
-# 📰 News Article Reader (LLM-Powered)
+# 📰 News_Article_Reader
 
-This project is an intelligent News Article Reader that uses Large Language Models (LLMs) to retrieve and answer user queries based on the content of three news articles provided via URLs. It leverages OpenAI embeddings, FAISS vector search, and LangChain's Retrieval QA capabilities to ensure relevant, sourced answers.
+This project is an intelligent News Article Reader that uses Large Language Models to retrieve and answer user queries based on the content of three news articles provided via URLs. It leverages OpenAI embeddings, FAISS vector search, and LangChain's Retrieval QA capabilities to ensure relevant, sourced answers.
 
 ---
 
