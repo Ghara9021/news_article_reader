@@ -19,3 +19,14 @@ A smart, interactive Streamlit-based application that lets you process and query
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Ghara9021/news_article_reader.git
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd news_article_reader
+3. **Install required dependencies**:
+   ```bash
+   pip install -r requirements.txt
+4. **Set up your OpenAI API key**:
+   ```bash
+   OPENAI_API_KEY=your_api_key_here
+
