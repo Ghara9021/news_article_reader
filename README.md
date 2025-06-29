@@ -38,5 +38,11 @@ A smart, interactive Streamlit-based application that lets you process and query
    ```bash
    streamlit run main.py
 
+## Project Structure:
+
+- `main.py`: The main Streamlit application script.
+- `requirements.txt`: List of required Python packages.
+- `faiss_store_openai.pkl`: Pickle file storing the FAISS vector index.
+- `.env`: Stores your OpenAI API key and other environment variables.
    
 
