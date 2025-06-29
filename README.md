@@ -30,3 +30,13 @@ A smart, interactive Streamlit-based application that lets you process and query
    ```bash
    OPENAI_API_KEY=your_api_key_here
 
+---
+
+## Usage
+
+1.**Run the Streamlit app by executing**:
+   ```bash
+   streamlit run main.py
+
+   
+
