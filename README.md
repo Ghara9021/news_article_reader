@@ -1,4 +1,4 @@
-# 📰 News Article Reader using LangChain, OpenAI & FAISS
+# 📰 News Article Reader
 
 A smart, interactive Streamlit-based application that lets you process and query news articles with the help of powerful LLMs. Load URLs or upload a list, and ask context-based questions to get summarized answers with source references.
 
